@@ -1,6 +1,6 @@
 # IBM Machine Learning with Python
 
-Final project for the following course: (https://www.coursera.org/learn/machine-learning-with-python)[https://www.coursera.org/learn/machine-learning-with-python] on coursera.
+Final project for the following course: [Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python)
 
 Results for the classifiers used:
 
